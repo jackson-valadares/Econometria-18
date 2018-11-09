@@ -1,2 +1,2 @@
-# Econometria-18
-Aula-18
+# 18_Modelos_VAR
+Inicio aos modelos VAR
